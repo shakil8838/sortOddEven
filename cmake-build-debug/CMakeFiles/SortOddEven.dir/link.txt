@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\SortOddEven.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\SortOddEven.dir/objects.a @CMakeFiles\SortOddEven.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\SortOddEven.dir/objects.a -Wl,--no-whole-archive  -o SortOddEven.exe -Wl,--out-implib,libSortOddEven.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SortOddEven.dir\linklibs.rsp
